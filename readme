@@ -1,0 +1,9 @@
+installation de Express Pour le backend
+installation de nodemon pour les modifications a temps réel
+npm install express request-promise nodemon
+express : framework web pour Node.js,
+request-promise : pour faire des requêtes HTTP avec promesses,
+nodemon : pour relancer automatiquement l’application lors de modifications du code.
+En résumé, cette commande prépare ton projet à utiliser ces trois bibliothèques.
+
+ ----Récupérqtion de la clé d API DEPUIS ScraperAPI-----
